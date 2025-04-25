@@ -82,6 +82,6 @@ formulars used- TRIM,LEFT,FIND,SUBSTITUTE,iF,ISNONTEXT
 
 ---
 
-## 📌 Dataset Source
+## 📌 Dataset Source  
+[Kaggle - Flipkart E-commerce Dataset](https://www.kaggle.com/datasets/atharvjairath/flipkart-ecommerce-dataset)
 
-Kaggle [link](https://www.kaggle.com/datasets/atharvjairath/flipkart-ecommerce-dataset)
