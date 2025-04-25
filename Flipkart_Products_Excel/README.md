@@ -6,7 +6,7 @@
 ```markdown
 # 🛒 Flipkart E-commerce Analysis (Excel Project)
 
-This project analyzes Flipkart e-commerce products dataset using Excel to uncover category trends, discounts, ratings, and pricing insights.
+This project analyzes Flipkart e-commerce products dataset (with data like ratings, discount, assurance, price, sales, cities) using Excel to uncover category trends, discounts, ratings, and pricing insights.
 
 ---
 
@@ -32,8 +32,8 @@ This project analyzes Flipkart e-commerce products dataset using Excel to uncove
 
 | File | Description |
 |------|-------------|
-| `ecommerce_analysis.xlsx` | Full project with dashboard, cleaning, pivots,power query, raw data |
-| `dashboard/` | Dashboard screenshot |
+| `Flipkart data.xlsx` | Full project with dashboard, cleaning, pivots,power query, raw data |
+| `Dashboard_fk.png` | Dashboard screenshot |
 | `README.md` | Documentation and overview |
 
 ---
