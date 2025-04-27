@@ -20,6 +20,10 @@ Each project involves real-world datasets, focused problem-solving, and meaningf
 - Power Query for data cleaning
 - Pivot tables, charts and dashboard for insights
 
+### 3. 🧾 SQL for beginners
+- This SQL file has everthing I learned in SQL Creating/altering, Subqueries,Joins, window functions, operators and much more
+- Just execute the queries and read the description you would learn a lot 
+  
 ---
 
 ## 📌 Tools & Skills Demonstrated
