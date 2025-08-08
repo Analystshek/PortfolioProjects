@@ -1,8 +1,8 @@
-# Solving Inventory Inefficiencies and Optimization Using SQL & Tableau
+# SOLVING INVENTORY INEFFICIENCIES AND OPTIMIZING Using SQL & Tableau
 
 This project was built as part of a national competition hosted by the IIT Guwahati Consulting & Analyst Society. The goal was to solve real-world inventory management challenges faced by a fast-growing retail chain using SQL-driven analytics and business intelligence tools.
 
-## Problem Statement
+## PROBLEM STATEMENT
 
 Urban Retail Co. is struggling with:
 - Frequent stockouts of fast-moving SKUs
@@ -14,7 +14,7 @@ The company has access to sales, inventory, and warehouse data — but it's unde
 
 ---
 
-## Objective
+## OBJECTIVE
 
 Design and implement a scalable, SQL-powered inventory monitoring system that:
 - Detects stock inefficiencies
@@ -24,26 +24,29 @@ Design and implement a scalable, SQL-powered inventory monitoring system that:
 
 ---
 
-##  My Contributions
+##  MY CONTRIBUTIONS
 
--  **SQL Analytics:** Wrote modular queries using joins, CTEs, CASE logic, and window functions to:
+ **SQL ANALYTICS:**
+  Wrote modular queries using joins, CTEs, CASE logic, and window functions to:
   - Identify stockouts and low inventory
   - Estimate reorder points using 7-day demand forecasting
   - Calculate inventory turnover at SKU and category levels
 
--  **Data Modeling:** Normalized raw inventory data into a clean relational schema:
+ **DATA MODELLING:** 
+ Normalized raw inventory data into a clean relational schema:
   - Built an ERD with `Products`, `Stores`, `Inventory_Fact`, and `CompetitorPricing` tables
 
--  **Visualization:** Designed an interactive Tableau dashboard showing:
+ **VISUALIZATION:** 
+ Designed an interactive Tableau dashboard showing:
   - Stock health by store and category
   - Forecast vs actual demand
   - Sales performance by promotion, seasonality, and region
 
--  **Business Reporting:** Compiled a concise executive summary report with actionable recommendations.
+-  **BUSINESS REPORTING:** Compiled a concise executive summary report with actionable recommendations.
 
 ---
 
-##  Project Structure
+##  PROJECT STRUCTURE
 
 ```bash
 ├── README.md
