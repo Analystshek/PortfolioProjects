@@ -42,7 +42,7 @@ Design and implement a scalable, SQL-powered inventory monitoring system that:
   - Forecast vs actual demand
   - Sales performance by promotion, seasonality, and region
 
--  **BUSINESS REPORTING:** Compiled a concise executive summary report with actionable recommendations.
+ **BUSINESS REPORTING:** Compiled a concise executive summary report with actionable recommendations.
 
 ---
 
