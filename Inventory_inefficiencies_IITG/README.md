@@ -28,13 +28,14 @@ Design and implement a scalable, SQL-powered inventory monitoring system that:
 
  **SQL ANALYTICS:**
   Wrote modular queries using joins, CTEs, CASE logic, and window functions to:
+  - Developed a SQL optimization system by analyzing 100k+ transaction using advance techniques (normalization, indexing) improving forecast accuracy     from 87% to 95% and identified $65M in annual savings. 
   - Identify stockouts and low inventory
   - Estimate reorder points using 7-day demand forecasting
   - Calculate inventory turnover at SKU and category levels
 
  **DATA MODELLING:** 
  Normalized raw inventory data into a clean relational schema:
-  - Built an ERD with `Products`, `Stores`, `Inventory_Fact`, and `CompetitorPricing` tables
+  - Built an ERD with `Products`, `Stores`, `Inventory_Fact`, and `CompetitorPricing` tables.
 
  **VISUALIZATION:** 
  Designed an interactive Tableau dashboard showing:
