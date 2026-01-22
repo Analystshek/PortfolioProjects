@@ -1,7 +1,7 @@
 # PortfolioProjects
 # 📊 Data Analytics Portfolio
 
-Welcome to my data analytics portfolio! This repository showcases few of my hands-on projects using SQL, Excel, Tableau, and R. 
+Welcome to my data analytics portfolio! This repository shows few of my hands-on projects using SQL, Excel, Tableau, Python and R. 
 Each project involves real-world datasets, focused problem-solving, and meaningful visual storytelling.
 
 ---
@@ -30,7 +30,7 @@ Each project involves real-world datasets, focused problem-solving, and meaningf
 
 ## 📌 Tools & Skills Demonstrated
 
-- **SQL:** Joins, filtering, grouping, window functions, views
+- **SQL:** Joins, filtering, grouping, window functions, views, CTE
 - **Excel:** Formulas, pivot tables, Power Query, dashboarding
 - **Tableau:** Visual storytelling, KPIs, interactive charts
 
